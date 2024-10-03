@@ -4,7 +4,9 @@ BLUE='\033[0;34m'   # blue color
 NC="\e[0m"          # no color
 
 function printLogo {
-  bash <(curl -s https://raw.githubusercontent.com/enyaselessar/Logo/main/logo.sh)
+  BLUE='\033[0;34m'  # Declare the color here
+  NC="\033[0m"  # No color reset
+  bash <(curl -s https://raw.githubusercontent.com/enyaselessar/Logo/main/logo.sh)  # Fetch logo
 }
 
 function printLine {
