@@ -5,4 +5,7 @@
   echo "|   __|  |  |      |   __|     \   \        \   \      /  /_\  \   |      /     "
   echo "|  |____ |  \`---. |  |____.----)  |   .----)   |       /  _____  \  |  |\  \----."
   echo "|_______||_______| |_______|_______/    |_______/    /__/     \__\ | _| \ .____|" 
+
+  WEBSITE: https://elessarnodes.xyz/
+  X: https://x.com/elessardarken
   echo -e "\e[0m"  # Reset color
